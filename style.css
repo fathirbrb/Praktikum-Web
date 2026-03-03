@@ -1,0 +1,22 @@
+#main-header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 50px 50px;
+  flex-direction: column;
+  background-color: pink;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background: white;
+  padding: 50px;
+  margin: 50px;
+}
+
+.npm {
+
+}
